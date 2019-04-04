@@ -16,6 +16,11 @@ p{
 div {
     position: relative;
 }
+
+#page{
+    width: 800px;
+}
+    
 #name{
     width: 450px;
     height: 80px;
