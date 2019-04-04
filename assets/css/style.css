@@ -16,11 +16,6 @@ p{
 div {
     position: relative;
 }
-
-#page{
-    width: 850px;
-}
-    
 #name{
     width: 450px;
     height: 80px;
@@ -42,7 +37,10 @@ div {
     line-height: 150%
 }
 
-
+#cave{
+    width: 700px;
+    height: 140px;
+}
 #vault{
     width: 300px;
     height: 100px;
@@ -73,7 +71,6 @@ div {
     background-color: #999549;
     border: solid #004442 2px;
     margin: 5px;
-    float:left;
 }
 img.crystal{
     width: 150px;
@@ -90,5 +87,4 @@ img.crystal{
     padding: 8px;
     border: solid #004442 2px;
     background-color: #bb8533;
-    float:left;
 }
