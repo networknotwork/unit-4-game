@@ -1,0 +1,89 @@
+body{
+    background-color: #6cccc5;
+}
+h1{
+    font-size: 350%;
+}
+h2{
+    font-size: 200%;
+}
+h3{
+    font-size: 150%;
+}
+p{
+    font-size: 125%;
+}
+div {
+    position: relative;
+}
+#name{
+    width: 450px;
+    height: 80px;
+    background-color: #ff9544;
+    border: solid #004442 3px;
+    border-radius: 10px;
+    margin: 10px;
+    margin-left: 5px;
+    padding-left: 25px;
+    padding-top: 5px;
+}
+
+#help{
+    background-color: #bb8533;
+    width: 600px;
+    padding: 10px;
+    margin: 5px;
+    border: solid #004422 3px;
+    line-height: 150%
+}
+
+
+#vault{
+    width: 300px;
+    height: 100px;
+    margin: 5px;
+    padding: 10px;
+    border: solid #004422 3px;
+    float: left;
+    background-color: #bb9555;
+}
+#stats{
+    width: 300px;
+    height: 100px;
+    left: 25px;
+    margin: 5px;
+    padding: 10px;
+    border: solid #004422 3px;
+    float: left;
+    background-color: #999549;
+}
+#wins, #losses{
+        line-height: 150%;
+}
+
+
+#gems{
+    width: 700px;
+    height: 180px;
+    background-color: #999549;
+    border: solid #004442 2px;
+    margin: 5px;
+    float:left;
+}
+img.crystal{
+    width: 150px;
+    height: 150px;
+    margin: 8px;
+    border: dashed #fff 3px;
+    float:left;
+}
+
+#cart{
+    width: 500px;
+    height: 80px;
+    margin: 5px;
+    padding: 8px;
+    border: solid #004442 2px;
+    background-color: #bb8533;
+    float:left;
+}
